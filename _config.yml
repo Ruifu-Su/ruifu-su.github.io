@@ -1,11 +1,11 @@
-title: Hexo
+title: Ruifu Su's Personal Website
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
+author: Ruifu Su
 language: en
 timezone: ''
-url: http://example.com
+url: https://www.suruifu.com/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
