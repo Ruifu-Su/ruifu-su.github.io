@@ -6,7 +6,7 @@
   <link href="https://www.suruifu.com/feed.xml" rel="self"/>
   
   <link href="https://www.suruifu.com/"/>
-  <updated>2023-08-24T04:51:41.586Z</updated>
+  <updated>2023-08-24T05:58:21.762Z</updated>
   <id>https://www.suruifu.com/</id>
   
   <author>
@@ -17,18 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://www.suruifu.com/2023/08/24/hello-world/"/>
-    <id>https://www.suruifu.com/2023/08/24/hello-world/</id>
-    <published>2023-08-24T04:51:41.586Z</published>
-    <updated>2023-08-24T04:51:41.586Z</updated>
+    <title>今夕是何年</title>
+    <link href="https://www.suruifu.com/2023/08/24/what-year-is-it-now-and-then/"/>
+    <id>https://www.suruifu.com/2023/08/24/what-year-is-it-now-and-then/</id>
+    <published>2023-08-24T12:56:26.000Z</published>
+    <updated>2023-08-24T05:58:21.762Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>我的博客挂了一段时间，今天将他恢复了。</p><p>后面这里也不会写什么技术文章，更多的还是记录成长。旧的博客应该也不会恢复了，我不是很想回忆过去。</p><p>我以前的时候感觉我是厉害的，我可以做到别人做不到的事，我可以说别人说不出来的话。</p><p>毕业后在社会上生活了一段时间了，我觉得我不特别。之所以我觉得我特别可能是因为我一直呆在一个让自己觉得自己特别的小环境里面。正所谓一叶障目，不见泰山。</p><p>很快在下个月就是我的生日，我 25 岁的生日。这就意味着如果我能活 50 岁的话，我的生命就度过 1&#x2F;2 了；如果我能活 75 岁的话，我的生活就度过 1&#x2F;3 了；如果我能活 100 岁的话，我的生命就度过 1&#x2F;4 了。</p><p>接触我的人都会认为我是一个程序员，我是一个热爱程序的人。我感觉我不是，我只是在寻找自己的出路，在寻找自己创造价值的机会。</p><p>在社会上，只是会写代码，并不能创造多么大的价值的。</p><p>要把人组织起来，才能把事情给做成。</p><p>但是现在满目疮痍，我该如何开始，我该如何规划，我该如何走下去。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;我的博客挂了一段时间，今天将他恢复了。&lt;/p&gt;
+&lt;p&gt;后面这里也不会写什么技术文章，更多的还是记录成长。旧的博客应该也不会恢复了，我不是很想回忆过去。&lt;/p&gt;
+&lt;p&gt;我以前的时候感觉我是厉害的，我可以做到别人做不到的事，我可以说别人说不出来的话。&lt;/p&gt;
+&lt;p&gt;毕业后在社会</summary>
       
     
     
