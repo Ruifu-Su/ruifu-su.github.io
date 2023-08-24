@@ -62,3 +62,12 @@ ignore: null
 theme: icarus
 deploy:
   type: ''
+feed:
+  enable: true
+  type: atom
+  path: feed
+  limit: 20
+  hub: 
+  content: true
+  order_by: -date
+  autodiscovery: true
